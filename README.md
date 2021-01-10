@@ -56,11 +56,11 @@ Este proyecto está bajo la Licencia GPL-3.0 - mira el archivo [LICENSE.md](LICE
 * Comenta a otros sobre este proyecto 📢
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Da las gracias públicamente 🤓.
-* Apoya el esfuerzo realizado haciendo un pequeño aporte (del valor que desees) para seguir creando aplicaciones o proyectos y generar nuevo conocimiento libre al mundo, a continuación, copia el enlace y pegalo en una nueva pestaña de tu navegador para acceder a la opción de donación vía PayPal: [paypal.me/CamiloMontoyaAdc](paypal.me/CamiloMontoyaAdc).
+* Apoya el esfuerzo realizado haciendo un pequeño aporte (del valor que desees) para seguir creando aplicaciones o proyectos y generar nuevo conocimiento libre al mundo, a continuación, el enlace para acceder a la opción de donación vía PayPal: [paypal.me/CamiloMontoyaAdc](https://paypal.me/CamiloMontoyaAdc).
 
 ---
 ⌨️ con ❤️ por [CamiloMonoyaAdc](https://github.com/CamiloMontoyaAdc) 😊
 
-Linked in (copia y pega el enlace en tu navegador): [https://www.linkedin.com/in/camiloamontoyah](https://www.linkedin.com/in/camiloamontoyah/).
+Linked in: [https://www.linkedin.com/in/camiloamontoyah](https://www.linkedin.com/in/camiloamontoyah/).
 
 "Las obras de conocimiento deben ser libres, no hay excusas para que no sea así." - Richard Stallman.
