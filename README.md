@@ -1,4 +1,4 @@
-# single_cronometer (cronómetro sencillo funcional)
+# single cronometer (cronómetro sencillo funcional)
 
 _Cronómetro sencillo funcional con 4 opciones: iniciar, detener, suspender y reanudar para manejar los tiempos según la necesidad del usuario.
 Puedes usar este repositorio en tus proyectos para tener una estructura básica de una aplicación ya organizada y distribuida en diferentes elementos o para incorporar esta funcionalidad a tus aplicaciones cambiando únicamente los estilos con base en tus necesidades, asímismo se cuenta con una hoja de estilos (css)  facilitando el manejo y modificación de estos para hacer más completo el proyecto._
@@ -17,8 +17,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 _Cosas que necesitas para instalar el software y como instalarlas_
 
-Es importante tener en cuenta que todas para este proyecto se uso bootstrap, sin embargo, no necesitas instalar nada en tu máquina ya que es un proyecto sencillo con JavaScript Vanilla.
-
+Es importante tener en cuenta que todas para este proyecto se uso bootstrap, sin embargo, no necesitas instalar nada en tu máquina ya que es un proyecto sencillo con JavaScript Vanilla, lo único que se sugiere es probar el aplicativo en una versión actualizada de microsoft edge o google chrome (funciona en otros navegadores pero por el tema de estilos puede llegar a verse distorsionado).
 
 ## Construido con 🛠️
 
@@ -43,13 +42,13 @@ cronometro
 
 _Personas que colaboraron con el proyecto desde sus inicios_
 
-* **Camilo Montoya** - *Trabajo Inicial* - [CamiloMonoyaAdc](https://github.com/CamiloMontoyaAdc)
+* **Camilo Montoya** - *Trabajo Inicial* - [Camilo Montoya](https://github.com/CamiloMontoyaAdc)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/CamiloMontoyaAdc/single_cronometer/graphs/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia GPL-3.0 - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia GPL-3.0 - mira el archivo [LICENSE.md](https://github.com/CamiloMontoyaAdc/single_cronometer/blob/main/LICENSE) para detalles
 
 ## Expresiones de Gratitud 🎁
 
@@ -59,7 +58,7 @@ Este proyecto está bajo la Licencia GPL-3.0 - mira el archivo [LICENSE.md](LICE
 * Apoya el esfuerzo realizado haciendo un pequeño aporte (del valor que desees) para seguir creando aplicaciones o proyectos y generar nuevo conocimiento libre al mundo, a continuación, el enlace para acceder a la opción de donación vía PayPal: [paypal.me/CamiloMontoyaAdc](https://paypal.me/CamiloMontoyaAdc).
 
 ---
-⌨️ con ❤️ por [CamiloMonoyaAdc](https://github.com/CamiloMontoyaAdc) 😊
+⌨️ con ❤️ por [Camilo Montoya](https://github.com/CamiloMontoyaAdc) 😊
 
 Linked in: [https://www.linkedin.com/in/camiloamontoyah](https://www.linkedin.com/in/camiloamontoyah/).
 
