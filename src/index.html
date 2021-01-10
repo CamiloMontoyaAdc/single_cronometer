@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>
+		Cronómetro en JS
+	</title>
+	<meta charset="utf-8"/>
+	<meta name="description" content="Cronómetro elaborado en JavaScript (JS) para un funcionamiento sencillo a través de su interfaz gráfica y sus botones."/>
+	<meta name="keywords" content="Cronómetro, JavaScript, HTML"/>
+	<meta name="author" content="Camilo Montoya Adc" />
+	<meta name="copyright" content="Elaborado por Camilo Montoya Adc- Todos los derechos reservados - Bogotá, Colombia - 2020" />
+	<meta name="robots" content="index"/>
+	<meta name="robots" content="follow"/>
+	<meta http-equiv="cache-control" content="no-cache"/>
+	<script src="cronometro.js"></script>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+</head>
+
+<body>
+	<div class="contenedor">
+		<h2>Crónometro en JavaScript</h2>
+		<div class="reloj">
+			<h3 id="time">00 : 00 : 00</h3> 
+		</div>
+		<div class="buttonGroup">
+			<button type="button" class="btn btn-success btn-lg" onclick="iniciarTiempo()"> Iniciar </button>
+			<button type="button" class="btn btn-danger btn-lg" onclick="detenerTiempo()"> Detener </button>
+			<button type="button" class="btn btn-warning btn-lg" onclick="suspenderTiempo()"> Suspender </button>
+			<button type="button" class="btn btn-dark btn-lg" onclick="reanudarTiempo()"> Reanudar </button>
+		</div>
+		<footer align="center">
+			<p>&copy;- Elaborado por Camilo Montoya - Todos los derechos reservados - Bogotá, Colombia - 2020</p>
+		</footer>
+	</div>
+</body>
+
+</html>
